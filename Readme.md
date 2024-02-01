@@ -2,7 +2,7 @@
 
 * Студент: [Екатерина Ворошнина](https://up.htmlacademy.ru/htmlcss/39/user/2452075).
 * Наставник: [Дина Шарипова](https://htmlacademy.ru/profile/id1418957).
-
+* Сайт: [Мой проект Седона](https://katyavoroshnina.github.io/2452075-sedona-39/).
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
